@@ -1,2 +1,2 @@
 # Python_Basics
-Learning from the Python Fundamentals Track on DataCamp
+My learning from the Python Fundamentals Track on DataCamp

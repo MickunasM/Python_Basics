@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 Created on Mon Mar 27 21:46:31 2023
 
@@ -8,15 +9,7 @@ Author: Marius Mickunas
 Title: Functions
 
 A function is a piece of re-usable code, that you can call on anytime e.g. print(), max(), round(1.68, 1), help(function_name)
-
 """
-#%% Familiar functions
-
-""" Out of the box, Python offers a bunch of built-in functions to make your life as a data scientist easier. 
-You already know two such functions: print() and type(). You've also used the functions str(), int(), bool() and float() 
-to switch between data types. 
-"""
-
 
 #%%
 # Create variables var1 and var2
